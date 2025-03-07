@@ -28,9 +28,9 @@
 ---
 
 ## 🚀 Notable Projects:
-- 🏎️ **[Car Sales Platform](https://github.com/mohamedhassan/car-sales)** – A full-featured car marketplace with advanced filters.
-- 🎨 **[Portfolio Website](https://github.com/mohamedhassan/portfolio)** – A **Next.js & Tailwind CSS** powered personal website.
-- 🎓 **[Education Dashboard](https://github.com/mohamedhassan/education-dashboard)** – A learning platform with student management features.
+- 🏎️ **[Car Sales Platform](https://github.com/2MohamedHssan/Mr-Car-app)** – A full-featured car marketplace with advanced filters.
+- 🎨 **[Portfolio Website]((https://github.com/mohamedhassan/portfolio))** – A **Next.js & Tailwind CSS** powered personal website.
+- 🎓 **[Education platform]((https://github.com/mohamedhassan/education-dashboard))** – A learning platform with student management features.
 
 ---
 
